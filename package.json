@@ -1,0 +1,10 @@
+{
+    "name": "Hello timer",
+    "main": "index.html",
+    "window": {
+        "icon": "images/app.ico",
+        "toolbar": true,
+        "width": 800,
+        "height": 480
+    }
+}
